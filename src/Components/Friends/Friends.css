@@ -1,0 +1,25 @@
+    
+.friendsCom {
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 7px;
+}
+.addButton{
+    background-color: royalblue;
+    border-radius: 8px 0px 8px 0px;
+    color: white;
+    width: 120px;
+    height: 30px;
+}
+.addButton:hover{
+    background-color: goldenrod;
+}
+.introduction h3{
+    color: Black;
+}
+.photo img{
+    border-radius: 47%;
+    height: 100px;
+    width: 100px;
+}

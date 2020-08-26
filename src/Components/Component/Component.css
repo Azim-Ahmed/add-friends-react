@@ -1,0 +1,14 @@
+.component{
+    display: flex;
+}
+.Friends-component{
+    width: 70%;
+    border-right: 1px solid lightblue;
+    margin-left: 10px;
+    
+    
+
+}
+.listBox{
+margin-left: 10px;
+}
